@@ -1,0 +1,2 @@
+#GlobalAIHub Python Bootcamp Projesi
+
